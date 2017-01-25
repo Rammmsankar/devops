@@ -1,0 +1,3 @@
+#ssh
+
+curl http://ec2-35-160-130-237.us-west-2.compute.amazonaws.com:8080/job/TestBuild/build?token=cgjenkins_123
