@@ -1,5 +1,5 @@
 This is test file for Jenkins
 
 
-Testing autobiuld 3
+Testing autobuild 3
 
